@@ -263,18 +263,6 @@ globaltrust_incident (MySQL)
 
 ---
 
-## 🚀 How to Run It
-
-**1. Clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/operation-swift-recovery.git
-cd operation-swift-recovery
-```
-
-**2. Install dependencies**
-```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy mysql-connector-python python-dotenv
-```
 
 **3. Set up environment variables**
 
